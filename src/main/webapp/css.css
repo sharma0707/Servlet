@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+body{
+	font-family: sans-serif;
+	background-color: #c0c0c0;
+}
+#std{
+	font-family: sans-serif;
+	width: 100%;
+	border-collapse: collapse;
+}
+#std td, th{
+	border: 2px solid #ddd;
+	padding: 8px;
+}
